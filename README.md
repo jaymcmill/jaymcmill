@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @jaymcmill
-- 👀 I’m interested in Web Development and Web Design
-- 🌱 I’m currently learning Graphic Design.
-- 💞️ I’m looking to collaborate on Web Development Projects & Web Redesign Projects.
 - 📫 Reach me at jaymcmill@yahoo.com
 
 <!---
